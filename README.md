@@ -1,5 +1,7 @@
 # 💫 About Me:
-👨‍💻Samuel, entusiasta em React, React Native, Spring e Java. Apaixonado por desenvolvimento web desde novo. Transformando ideias em realidade. 🚀🌐
+👋 Olá! Meu nome é Samuel e sou um desenvolvedor web apaixonado por construir aplicações modernas e escaláveis. Com experiência em React, TypeScript, e Spring Boot, gosto de criar interfaces intuitivas e sistemas backend robustos. Atualmente, estou focado em aprimorar meus projetos de e-commerce, como o Snikerin, uma loja de importação de tênis, e em integrar soluções de pagamento como Mercado Pago Bricks.
+
+No meu perfil, você encontrará desde componentes dinâmicos em React, até serviços backend que lidam com segurança, upload de imagens e gerenciamento de pedidos. Estou sempre em busca de melhorar minhas habilidades e colaborar em projetos interessantes.
 
 
 ## 🌐 Socials:
